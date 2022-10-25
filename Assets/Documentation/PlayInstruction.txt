@@ -1,0 +1,10 @@
+Play Instruction
+
+1. Press Enter Key to start playing this game. When you hit Enter Key, music starts playing and fireballs(Monster's attack) start flying to the player.
+
+2. Press Up, Right, Left, and Down Arrow keys when fireballs hit buttons in front of the player. 
+
+3. Beat the opponent monsters before you get beaten!
+
+* Click Quit button to exit the game.
+* Click Menu button to go to menu scene. 
